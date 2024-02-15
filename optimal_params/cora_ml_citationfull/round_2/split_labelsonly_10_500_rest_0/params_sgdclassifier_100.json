@@ -1,0 +1,7 @@
+{
+    "loss": "modified_huber",
+    "penalty": "l2",
+    "alpha": 1.847549888535307e-06,
+    "tol": 6.497506631549626e-06,
+    "n_iter_no_change": 34
+}

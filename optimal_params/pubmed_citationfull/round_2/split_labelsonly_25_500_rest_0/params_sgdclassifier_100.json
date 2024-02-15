@@ -1,0 +1,8 @@
+{
+    "loss": "log_loss",
+    "penalty": "elasticnet",
+    "l1_ratio": 0.7059551511687967,
+    "alpha": 0.0002012093928406,
+    "tol": 4.135500733543463e-05,
+    "n_iter_no_change": 21
+}

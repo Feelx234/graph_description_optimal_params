@@ -1,0 +1,7 @@
+{
+    "loss": "hinge",
+    "penalty": "l2",
+    "alpha": 2.143750924765518e-06,
+    "tol": 0.09763290853368539,
+    "n_iter_no_change": 96
+}

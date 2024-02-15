@@ -1,0 +1,8 @@
+{
+    "loss": "squared_hinge",
+    "penalty": "elasticnet",
+    "l1_ratio": 0.20870640206434846,
+    "alpha": 1.0339995494617474e-06,
+    "tol": 8.538096342177798e-05,
+    "n_iter_no_change": 53
+}

@@ -1,0 +1,8 @@
+{
+    "loss": "epsilon_insensitive",
+    "epsilon": 0.014050069687850327,
+    "penalty": "l2",
+    "alpha": 0.99253865627548,
+    "tol": 0.00993936677621626,
+    "n_iter_no_change": 12
+}

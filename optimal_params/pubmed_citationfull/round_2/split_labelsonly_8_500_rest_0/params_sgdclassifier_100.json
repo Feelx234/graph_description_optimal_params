@@ -1,0 +1,9 @@
+{
+    "loss": "huber",
+    "epsilon": 0.5263495202933601,
+    "penalty": "elasticnet",
+    "l1_ratio": 0.2841847591820074,
+    "alpha": 0.2681452232241383,
+    "tol": 0.00029459956151659385,
+    "n_iter_no_change": 58
+}

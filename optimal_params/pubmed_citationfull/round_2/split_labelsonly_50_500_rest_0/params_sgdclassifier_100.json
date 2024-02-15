@@ -1,0 +1,7 @@
+{
+    "loss": "perceptron",
+    "penalty": "l1",
+    "alpha": 0.16711079345402355,
+    "tol": 0.0002607209105710005,
+    "n_iter_no_change": 98
+}

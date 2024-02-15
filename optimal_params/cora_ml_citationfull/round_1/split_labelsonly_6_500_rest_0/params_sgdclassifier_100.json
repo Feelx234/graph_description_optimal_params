@@ -1,0 +1,8 @@
+{
+    "loss": "perceptron",
+    "penalty": "elasticnet",
+    "l1_ratio": 0.8034803114308233,
+    "alpha": 2.7944134267177144e-06,
+    "tol": 0.01243796833991328,
+    "n_iter_no_change": 12
+}
